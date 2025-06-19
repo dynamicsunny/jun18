@@ -1,2 +1,5 @@
 This is first line
 This is second line	
+
+git config --global user.email "dynamic.sukumar@gmail.com"
+git config --global user.name "dynamicsunny"
